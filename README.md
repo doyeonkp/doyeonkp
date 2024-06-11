@@ -1,10 +1,14 @@
 💾 전체 코드
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Doyeon's%20Github&fontSize=90)
-
 <div align="center">
   <a href="https://capsule-render.vercel.app">
     <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Doyeon's%20Github&fontSize=90"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Gwendolyn&weight=700&size=30&pause=1000&color=71B7FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+code+playground;I+am+a+Data+Engineer;I+have+experience+at+an+embedded+developer+and+an+iOS+developer"/>
   </a>
 </div>
 
@@ -64,10 +68,6 @@
   </a>
 </div>
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gwendolyn&weight=700&size=30&pause=1000&color=71B7FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+code+playground;I+am+a+Data+Engineer;I+have+experience+at+an+embedded+developer+and+an+iOS+developer)](https://git.io/typing-svg)
 
 [![Doyeon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=doyeonkp&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
