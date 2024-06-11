@@ -17,7 +17,13 @@ have+ +experience+at+ +an+ +embedded+ +developer+ +and+ +an+ +iOS+ +developer"/>
   <a href="https://github-readme-stats.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api?username=doyeonkp&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
   </a>
-    <a href="https://github-readme-stats.vercel.app">
+  <div>
+
+
+
+    
+  </div>
+  <a href="https://github-readme-stats.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonkp&layout=compact"/>
   </a>
 </div>
@@ -26,20 +32,16 @@ have+ +experience+at+ +an+ +embedded+ +developer+ +and+ +an+ +iOS+ +developer"/>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,swift,cpp,c, mysql, mssql"/>
+    <img src="https://skillicons.dev/icons?i=python,swift,cpp,c,mysql"/>
   </a>
 </div>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=kafka,azure,elasticsearch" />
-</div>
-
 <br>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,nginx" />
 </div>
-
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=kafka,azure,elasticsearch"/>
+</div>
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
