@@ -1,3 +1,66 @@
+💾 전체 코드
+<!--타이틀 부분-->
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+
+<!--내용 부분-->
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,swift,cpp,c, mysql, mssql"/>
+  </a>
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=kafka,spark,elasticsearch" />
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,nginx" />
+</div>
+
+<br>
+
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/#7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kim-d-86363113b/">
+    <img src="https://img.shields.io/badge/#0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:yesung6@gmail.com">
+    <img
+      src="https://img.shields.io/badge/yesung6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Doyeon's%20Github&fontSize=90)
 
 
