@@ -13,9 +13,14 @@ have+ +experience+at+ +an+ +embedded+ +developer+ +and+ +an+ +iOS+ +developer"/>
   </a>
 </div>
 
-[![Doyeon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=doyeonkp&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonkp&layout=compact)
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=doyeonkp&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
+  </a>
+    <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonkp&layout=compact"/>
+  </a>
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
