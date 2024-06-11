@@ -67,7 +67,7 @@ have+ +experience+at+ +an+ +embedded+ +developer+ +and+ +an+ +iOS+ +developer"/>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/kim-d-86363113b/">
-    <img src="https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />&nbsp
   </a>
   <a href="mailto:yesung6@gmail.com">
     <img
