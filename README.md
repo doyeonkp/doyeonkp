@@ -42,7 +42,7 @@ have+ +experience+at+ +an+ +embedded+ +developer+ +and+ +an+ +iOS+ +developer"/>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/GoogleBigQuery-#669DF6?style=for-the-badge&logo=Google%20Big%20Query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Google%20BigQuery-#669DF6?style=for-the-badge&logo=Google%20Big%20Query&logoColor=white" />&nbsp
 </div>
 
 <br>
