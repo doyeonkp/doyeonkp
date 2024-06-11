@@ -1,7 +1,11 @@
 💾 전체 코드
 <!--타이틀 부분-->
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Doyeon's%20Github&fontSize=90)
+
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <a href="https://capsule-render.vercel.app">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Doyeon's%20Github&fontSize=90"/>
+  </a>
 </div>
 
 <!--내용 부분-->
@@ -61,7 +65,6 @@
 </div>
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Doyeon's%20Github&fontSize=90)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gwendolyn&weight=700&size=30&pause=1000&color=71B7FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+code+playground;I+am+a+Data+Engineer;I+have+experience+at+an+embedded+developer+and+an+iOS+developer)](https://git.io/typing-svg)
