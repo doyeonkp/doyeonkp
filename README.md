@@ -31,7 +31,7 @@ have+ +experience+at+ +an+ +embedded+ +developer+ +and+ +an+ +iOS+ +developer"/>
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kafka,spark,elasticsearch" />
+    <img src="https://skillicons.dev/icons?i=kafka,azure,elasticsearch" />
 </div>
 
 <br>
