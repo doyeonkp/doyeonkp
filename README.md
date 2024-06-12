@@ -1,4 +1,3 @@
-💾 전체 코드
 <!--타이틀 부분-->
 <div align="center">
   <a href="https://capsule-render.vercel.app">
@@ -14,12 +13,14 @@ have+ +experience+at+ +an+ +embedded+ +developer+ +and+ +an+ +iOS+ +developer"/>
 </div>
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api?username=doyeonkp&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonkp&layout=donut&show_icons=true&theme=react&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+  </a>    
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=doyeonkp&show_icons=true&theme=react&hide_border=true&count_private=true" width=56% />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonkp&layout=compact"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=doyeonkp&theme=react" width=94%/>
   </a>
 </div>
 
@@ -42,23 +43,22 @@ have+ +experience+at+ +an+ +embedded+ +developer+ +and+ +an+ +iOS+ +developer"/>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Google%20BigQuery-#669DF6?style=for-the-badge&logo=Google%20Big%20Query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=Google%20BigQuery&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/ApacheDruid-29F1FB?style=for-the-badge&logo=ApacheDruid&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=black" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/apache%20superset-20A6C9?style=for-the-badge&logo=ApacheSuperset&logoColor=black" />&nbsp
 </div>
-
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
@@ -70,6 +70,7 @@ have+ +experience+at+ +an+ +embedded+ +developer+ +and+ +an+ +iOS+ +developer"/>
   <a href="https://www.linkedin.com/in/kim-d-86363113b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />&nbsp
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:yesung6@gmail.com">
     <img
       src="https://img.shields.io/badge/yesung6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
